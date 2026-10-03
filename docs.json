@@ -42,7 +42,10 @@
         ]
       },
       {
-        "tab": "Tab 2"
+        "tab": "Tab 2",
+        "pages": [
+          "untitled-page"
+        ]
       }
     ]
   },
