@@ -26,18 +26,23 @@
     "tabs": [
       {
         "tab": "Tab 1",
-        "pages": [
+        "anchors": [
           {
-            "group": "SQL",
+            "anchor": "Test Anchor",
             "pages": [
-              "ddsadasdd",
-              "dasdasdasdas"
+              {
+                "group": "SQL",
+                "pages": [
+                  "ddsadasdd",
+                  "dasdasdasdas"
+                ]
+              },
+              "sdasdasd",
+              {
+                "group": "Untitled Dropdown",
+                "pages": []
+              }
             ]
-          },
-          "sdasdasd",
-          {
-            "group": "Untitled Dropdown",
-            "pages": []
           }
         ]
       },
