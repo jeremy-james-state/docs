@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "sequoia",
   "name": "Databases",
   "colors": {
     "primary": "#16A34A",
@@ -81,5 +81,9 @@
     "heading": {
       "family": "Inter"
     }
+  },
+  "appearance": {
+    "default": "dark",
+    "strict": true
   }
 }
