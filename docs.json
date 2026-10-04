@@ -32,6 +32,19 @@
         "pages": [
           "untitled-page"
         ]
+      },
+      {
+        "tab": "Tab 3",
+        "dropdowns": [
+          {
+            "dropdown": "Dropdown",
+            "pages": [
+              "untitled-page-4",
+              "untitled-page-5",
+              "untitled-page-6"
+            ]
+          }
+        ]
       }
     ]
   },
