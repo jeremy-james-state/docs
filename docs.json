@@ -14,7 +14,10 @@
         "tab": "DB Fundamentals",
         "anchors": [
           {
-            "anchor": "Anchor"
+            "anchor": "Anchor",
+            "pages": [
+              "untitled-page-2"
+            ]
           }
         ]
       },
