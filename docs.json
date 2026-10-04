@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "sequoia",
+  "theme": "mint",
   "name": "Databases",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
+    "primary": "#D3D3D3",
+    "light": "#FFFFFF",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
