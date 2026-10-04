@@ -12,29 +12,9 @@
     "tabs": [
       {
         "tab": "DB Fundamentals",
-        "menu": [
+        "anchors": [
           {
-            "item": "Untitled Item",
-            "dropdowns": [
-              {
-                "dropdown": "Untitled Dropdown",
-                "pages": [
-                  "untitled-page-2"
-                ]
-              },
-              {
-                "dropdown": "Dropdown",
-                "groups": [
-                  {
-                    "group": "Untitled Group",
-                    "pages": [
-                      "untitled-page-3",
-                      "untitled-page-4"
-                    ]
-                  }
-                ]
-              }
-            ]
+            "anchor": "Anchor"
           }
         ]
       },
