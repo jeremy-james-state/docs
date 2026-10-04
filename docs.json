@@ -37,7 +37,12 @@
   },
   "fonts": {
     "heading": {
-      "family": "Inter"
+      "family": "Inter",
+      "weight": 400
+    },
+    "body": {
+      "family": "Inter",
+      "weight": 300
     }
   },
   "appearance": {
