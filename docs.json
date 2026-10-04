@@ -26,21 +26,27 @@
     "tabs": [
       {
         "tab": "Tab 1",
-        "anchors": [
+        "menu": [
           {
-            "anchor": "Test Anchor",
-            "pages": [
+            "item": "Untitled Item",
+            "dropdowns": [
               {
-                "group": "SQL",
+                "dropdown": "Untitled Dropdown",
                 "pages": [
-                  "ddsadasdd",
-                  "dasdasdasdas"
+                  "untitled-page-2"
                 ]
               },
-              "sdasdasd",
               {
-                "group": "Untitled Dropdown",
-                "pages": []
+                "dropdown": "Dropdown",
+                "groups": [
+                  {
+                    "group": "Untitled Group",
+                    "pages": [
+                      "untitled-page-3",
+                      "untitled-page-4"
+                    ]
+                  }
+                ]
               }
             ]
           }
