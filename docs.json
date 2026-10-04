@@ -76,5 +76,10 @@
       "cursor",
       "vscode"
     ]
+  },
+  "fonts": {
+    "heading": {
+      "family": "Inter"
+    }
   }
 }
