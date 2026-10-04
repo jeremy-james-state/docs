@@ -18,6 +18,12 @@
             "pages": [
               "untitled-page-2"
             ]
+          },
+          {
+            "anchor": "Anchor 2",
+            "pages": [
+              "untitled-page-3"
+            ]
           }
         ]
       },
